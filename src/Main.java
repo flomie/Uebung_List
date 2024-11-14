@@ -10,6 +10,7 @@ public class Main {
         Patient p2 = new Patient("F002", 789012, "Bertram", "Müller", LocalDate.of(1990,8,15));
 
         System.out.println("sippyStinkt");
+        System.out.println("floRiechtGuat");
 
         }
 
